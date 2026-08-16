@@ -35,7 +35,7 @@ RAG • LangGraph • LLM APIs • Vector Databases • REST APIs • GraphQL
 
 ## 🔥 What I'm Currently Building
 
-- 🧠 **RepoRecall AI** — AI-powered repository knowledge search using RAG
+- 🧠 **RepoRecall AI** - AI-powered repository knowledge search using RAG
 
 ---
 
